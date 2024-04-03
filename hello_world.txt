@@ -1,1 +1,2 @@
 Hello im making changes to see if it will show in the staging area 
+Making another change to see test changing code on a local computer then recommiting into gethub :) 
